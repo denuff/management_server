@@ -1,2 +1,2 @@
 # management_server
-from Charles Wetherell's book Etudes from programmers
+example from Charles Wetherell's book Etudes for programmers
